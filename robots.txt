@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://nrb-apgujeong-guide.xyz/sitemap.xml
 Sitemap: https://nrb-apgujeong-guide.xyz/sitemap-index.xml
